@@ -1,0 +1,11 @@
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.RData.*
+.Rproj.user/
+.Renviron
+.env
+.DS_Store
+Thumbs.db
+*.RData
